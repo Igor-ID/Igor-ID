@@ -4,7 +4,7 @@
 
 I'm Igor, a data engineer and python developer with a background in electrical engineering. I am currently working on the following:
 - During working hours, I create a domain agnostic Conversational AI agent. Solve core NLP problems like semantics, similarity, and intent classification using NLTK, SpaCy, Transformers and simCSE tools. 
-- Days and nights, most of my free time I work on various BCIs, currently, I am working on BCI inner speech recognition system. The ultimate goal is to achieve better prediction accuracy than motor imagery (MI)-based BCIs.
+- Days and nights, most of my free time I work on various BCIs. Currently, I am working on BCI inner speech recognition system. The ultimate goal is to achieve better prediction accuracy than motor imagery (MI)-based BCIs.
 - During tea breaks, I develop a full-fledged API using FastAPI.
 
 ### More about me
